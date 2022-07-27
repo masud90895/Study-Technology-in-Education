@@ -1,0 +1,6 @@
+.carousel-hight{
+    min-height: 60vh;
+}
+.carousel-img{
+    object-fit: cover;
+}
