@@ -13,6 +13,9 @@
 .started-btn{
     margin-left: 35%;
 }
+.elearning-bg-color{
+    background-color: #F4FAFD;
+}
 /*phone*/
 @media only screen and (max-width: 688px) {
     .courses-img{
@@ -22,6 +25,13 @@
     .margin-class{
         margin-left: 5%;
     }
+    .working-img{
+        width: 355px !important;
+    }
+    .working-p{
+        width: 100% !important;
+        margin-top: 10px;
+    }
 }
 /* Tab */
     @media only screen and (min-width:689px) and (max-width:992px){
@@ -30,6 +40,10 @@
     }
     .margin-class{
         margin-left: 6%;
+    }
+    .working-img{
+        height: 552px !important;
+        padding-right: 29px;
     }
 
 }
