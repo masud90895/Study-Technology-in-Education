@@ -32,6 +32,9 @@
         width: 100% !important;
         margin-top: 10px;
     }
+    .ready-join{
+        width: 90% !important;
+    }
 }
 /* Tab */
     @media only screen and (min-width:689px) and (max-width:992px){
