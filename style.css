@@ -4,3 +4,32 @@
 .carousel-img{
     object-fit: cover;
 }
+.grey-color{
+    color: grey;
+}
+.margin-class{
+    margin-left: 15%;
+}
+.started-btn{
+    margin-left: 35%;
+}
+/*phone*/
+@media only screen and (max-width: 688px) {
+    .courses-img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .margin-class{
+        margin-left: 5%;
+    }
+}
+/* Tab */
+    @media only screen and (min-width:689px) and (max-width:992px){
+    .courses-img{
+        height: 212px;
+    }
+    .margin-class{
+        margin-left: 6%;
+    }
+
+}
