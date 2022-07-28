@@ -11,10 +11,14 @@
     margin-left: 15%;
 }
 .started-btn{
-    margin-left: 35%;
+    margin-left: 35% ;
 }
 .elearning-bg-color{
     background-color: #F4FAFD;
+}
+.student-img{
+    width: 285px !important;
+    margin-left: -11px;
 }
 /*phone*/
 @media only screen and (max-width: 688px) {
